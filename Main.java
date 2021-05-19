@@ -13,3 +13,5 @@ class Main {
         System.out.println(namaTeman5);
   }
 }
+
+//©Argenta2021
